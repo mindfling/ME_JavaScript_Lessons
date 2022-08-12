@@ -1,8 +1,9 @@
-#  ME_JavaScript_Lessons
+#  ME_JavaScript_Lessons 
+for Others Lessons
 
 
+### …or create a new repository on the command line
 ```
-…or create a new repository on the command line
     echo "# ME_JavaScript_Lessons" >> README.md
     git init
     git add README.md
@@ -12,8 +13,8 @@
     git push -u origin main
 ```
 
+### …or create a new repository on the command line
 ```
-…or create a new repository on the command line
   echo "# ME_JavaScript_Lessons" >> README.md
   git init
   git add README.md
@@ -23,9 +24,9 @@
   git push -u origin main
 ```
 
-
+```
 …or push an existing repository from the command line
   git remote add origin git@github.com:mindfling/ME_JavaScript_Lessons.git
   git branch -M main
   git push -u origin main
-
+```
